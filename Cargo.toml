@@ -1,0 +1,15 @@
+[workspace]
+members = []
+resolver = "3"
+
+[workspace.package]
+version = "0.1.0"
+authors = ["on9au <151502370+on9au@users.noreply.github.com>", "RllyTuck"]
+edition = "2024"
+license = "TBD"
+repository = "https://github.com/on9au/majedit"
+
+[workspace.dependencies]
+# internal
+
+# external
